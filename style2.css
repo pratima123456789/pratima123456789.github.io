@@ -1,0 +1,57 @@
+.text-center{
+	text-align: center;
+	color: black;
+}
+p{
+	font-size: 30px;
+}
+
+.jumbotron{
+	background-color: #95a5a6;
+}
+
+.jumbotext{
+	color: #f1c40f;
+}
+
+.btn-pink{
+	background-color: black;
+}
+
+.btn-round{
+	border-radius: 30px;
+}
+
+.btn-primary{
+	background-color: #f1c40f;
+}
+
+.bg-image{
+	background-size: contain;
+	background-image: url(https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif);
+	padding-bottom: 200px;
+	padding-top: 150px;
+}
+
+.second-row{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.fourth-row{
+	text-align: center;
+}
+
+.glyphicon.glyphicon-plane{
+	font-size: 50px;
+	color: black;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.glyphicon.glyphicon-gift{
+	font-size: 50px;
+	color: black;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
